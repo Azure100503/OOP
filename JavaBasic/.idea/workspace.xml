@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="166cc2c4-5a5b-46c6-bfd4-72e0e6861d19" name="Changes" comment="" />
+    <list default="true" id="b097ac11-de72-4390-9c8e-f589d9885589" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2JY1rohqd6T8ovPOw36phlgnxqZ" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K1dUnzfKTsAkxi0ytiJEumzMlE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,14 +29,90 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Sort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortlogithms.BubbleSort" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortlogithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortlogithms.InsertSort" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortlogithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortlogithms.SelectionSort" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortlogithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortlogithms.Sort" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortlogithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="toRadix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="convertradix.toRadix" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="convertradix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.toRadix" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="166cc2c4-5a5b-46c6-bfd4-72e0e6861d19" name="Changes" comment="" />
-      <created>1672240407380</created>
+      <changelist id="b097ac11-de72-4390-9c8e-f589d9885589" name="Changes" comment="" />
+      <created>1673146048954</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1672240407380</updated>
+      <updated>1673146048954</updated>
     </task>
     <servers />
   </component>
